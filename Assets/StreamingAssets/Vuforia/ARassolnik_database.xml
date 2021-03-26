@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="soleniya" size="1.000000 0.750000" />
+    <ImageTarget name="cola" size="1.000000 0.749936" />
+    <ImageTarget name="ikra" size="1.000000 0.750000" />
+    <ImageTarget name="sulugini" size="1.000000 0.750000" />
+    <ImageTarget name="pohlebka" size="0.100000 0.075000" />
+    <ImageTarget name="seledka" size="0.100000 0.075000" />
+    <ImageTarget name="Gruzdi" size="0.100000 0.075000" />
+    <ImageTarget name="Rassolnik" size="0.100000 0.075000" />
+    <ImageTarget name="Pelimeni" size="0.100000 0.075000" />
+    <ImageTarget name="Kotleti" size="0.100000 0.075000" />
+    <ImageTarget name="Kamchatka" size="0.100000 0.075000" />
+    <ImageTarget name="Utka" size="0.100000 0.075000" />
+    <ImageTarget name="Medalioni" size="1.000000 0.750000" />
+  </Tracking>
+</QCARConfig>
